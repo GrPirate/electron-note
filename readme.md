@@ -19,7 +19,7 @@ cd notepad
 npm start
 ```
 
-![]('./static/1.png')
+![](./static/1.png)
 
 ## get start current project
 
